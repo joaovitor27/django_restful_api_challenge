@@ -1,6 +1,7 @@
 .idea
 venv
 .vscode
+.env
 
 # Django #
 *.log
